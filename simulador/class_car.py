@@ -445,7 +445,7 @@ class CarCoppelia:
 	# termina a classe
 	def __del__(self):
 		
-		time.sleep(.5)
+		# time.sleep(.5)
 		
 		# fecha simulador
 		#-----------------------------------
